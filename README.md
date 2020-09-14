@@ -1,6 +1,8 @@
 # correios-tracker
 Web scrapping the tracking system of Correios using Cheerio, Axios and QS libraries.
 
+The Correios system uses a urlencoded POST method with our target information as a response.
+
 You must have Node.js installed.
 
 setup the environment running npm install in your CLI.
