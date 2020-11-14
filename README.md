@@ -1,5 +1,5 @@
 # correios-tracker
-Web scrapping the tracking system of Correios using Cheerio, Axios and QS libraries.
+Web scrapping the tracking system of Correios using Cheerio, Axios and QS packages.
 
 The Correios system uses a urlencoded POST method with our target information as a response.
 
